@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+}
+header {background-color: #428A30;}
+
+header p{text-align: center;
+font-size: 45;
+color: white;
+padding: 5px;}
+
+h1{text-align: center;
+background-color: #428A30;
+color: white;}
+
+a{text-decoration: none;
+color: white;
+background-color: green;
+margin: 200px;
+padding: 5px;}
+
+nav{margin: 10px;}
+
+footer {background-color: #428A30;}
